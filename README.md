@@ -31,6 +31,14 @@ Born on [Pump.fun](https://pump.fun), fueled by community, driven by vibes.
 
 ---
 
+## 📈 Live Charts & Price Trackers
+
+- 📊 [DEXScreener](https://dexscreener.com/solana/hwihv9luaunuruan5jvrhjwj5pkjq3pty7yqyftmztx4)
+- 📉 [DEXTools](https://www.dextools.io/app/en/solana/pair-explorer/Hwihv9LUaunURuaN5JVRHjwj5PKJq3PTy7YQyftMZtX4)
+- 🌙 [MoonTok](https://www.moontok.io/token/GuVyPqsnVFj9nSbrxvissgnf5QBudTztdrT3da9Ppump?chain=solana)
+
+---
+
 ## 🧭 Roadmap
 
 - ✅ Launch on Pump.fun  
