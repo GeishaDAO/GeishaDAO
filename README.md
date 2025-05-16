@@ -2,7 +2,7 @@
   <img src="assets/geisha-main.png" alt="GeishaDAO Banner" width="100%" />
 </p>
 
-<h1 align="center">GeishaDAO - 芸者 🏯✨</h1>
+<h1 align="center">GeishaDAO - 芸者 🌸✨</h1>
 <p align="center">
   <strong>Elegance Meets Intelligence – AI-Powered Meme Token on Solana.</strong><br />
   <a href="https://geishadao.fun">🌐 Website</a> • 
