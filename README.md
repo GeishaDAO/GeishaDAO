@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Elegance Meets Intelligence – AI-Powered Meme Token on Solana.</strong><br />
   <a href="https://geishadao.fun">🌐 Website</a> • 
-  <a href="https://pump.fun/coin/GuVyPqsnVFj9nSbrxvissgnf5QBudTztdrT3da9Ppump">💸 Buy on Pump.fun</a> • 
+  <a href="https://dexscreener.com/solana/hwihv9luaunuruan5jvrhjwj5pkjq3pty7yqyftmztx4">💸 DexScreenern</a> • 
   <a href="https://twitter.com/geishadao">🐦 Twitter</a> • 
   <a href="https://t.me/geishadao">💬 Telegram</a>
 </p>
